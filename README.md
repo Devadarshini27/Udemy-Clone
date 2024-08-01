@@ -4,10 +4,8 @@ This project is a clone of the popular online learning platform, Udemy website, 
 **Features**
 -Home Page: A visually appealing landing page that mimics the original Udemy homepage.
 -Search Option: Allows users to search for courses.
--Icons: Includes wishlist, profile, notifications, and shopping cart icons for easy navigation.
 -Course Recommendations: A section that suggests courses based on popular or trending topics.
 -Course Listings: A section that displays a variety of courses similar to the course listing on Udemy.
--Navigation Bar: A fully functional navigation bar that allows users to easily navigate between different sections of the website.
 -Categories: A categorized view of courses, making it easy to find courses by topic.
 -Topic Recommendations: Suggestions for course topics based on user interests and popular trends.
 -New Courses: Highlights newly added courses.
@@ -20,7 +18,7 @@ index.html: Main HTML file containing the structure of the web page.
 styles.css: CSS file for styling the web page.
 
 **How to view**
-Check it out here:
+Check it out here:https://devadarshini27.github.io/Udemy-Clone/
 
 **Future Improvements**
 -Adding JavaScript for interactivity and functionality.
